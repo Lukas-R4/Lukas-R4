@@ -1,8 +1,12 @@
-<div align="center"> 
-  <h3>Bem vindo(a)! 👋</h3><a href="https://www.linkedin.com/in/lukas-r4" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<div align="left"> 
+  <h3>Bem vindo(a)! 👋</h3>  
 </div>
 
- <div style="display: inline_block" align="center"><br>
+##
+
+ <div style="display: inline_block" align="left"><br>
+  <b>Tecnologias utilizadas:</b>
+
   <img align="center" alt="Lucas-Cypress" height="30" width="40" src="https://raw.githubusercontent.com/Lukas-R4/Lukas-R4/aa576db1b6e1238fac3dcfcfa741831a47d7950a/file_type_cypress_icon_130654.svg">
   <img align="center" alt="Lucas-Nodejs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Lucas-PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg">
@@ -15,14 +19,13 @@
 
 ##
 
-
-<div align="center">
+<div align="left">
   <a href="https://www.github.com/lukas-r4">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lukas-r4&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukas-r4&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
-  
+<a href="https://www.linkedin.com/in/lukas-r4" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 
 <!--
