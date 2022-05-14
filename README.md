@@ -22,7 +22,7 @@
 <div align="left">
   <a href="https://www.github.com/lukas-r4">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lukas-r4&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukas-r4&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukas-r4&layout=compact&langs_count=8&theme=dark"/>
 </div>
   
 <a href="https://www.linkedin.com/in/lukas-r4" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
